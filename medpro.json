@@ -268,5 +268,1305 @@
     },
     "answer": "C",
     "explanation": ""
+  },
+  {
+    "id": 1,
+    "case": null,
+    "question": "A physician recommends chemotherapy but a mentally competent patient refuses it after being fully informed of the risks and benefits. The physician should:",
+    "options": {
+      "A": "Proceed with treatment because it is medically necessary",
+      "B": "Respect the patient's decision, as this reflects the principle of autonomy",
+      "C": "Ask the family to override the patient's decision",
+      "D": "Refuse to continue caring for the patient"
+    },
+    "answer": "B",
+    "explanation": "Respecting a competent, informed patient's right to refuse treatment is the core expression of autonomy."
+  },
+  {
+    "id": 2,
+    "case": null,
+    "question": "Which principle is primarily invoked when a doctor avoids prescribing an unnecessary but potentially harmful drug?",
+    "options": {
+      "A": "Justice",
+      "B": "Beneficence",
+      "C": "Non-maleficence",
+      "D": "Autonomy"
+    },
+    "answer": "C",
+    "explanation": "Non-maleficence means 'first, do no harm' — avoiding actions that could injure the patient."
+  },
+  {
+    "id": 3,
+    "case": null,
+    "question": "A hospital allocates a limited number of ICU beds during a disease outbreak based on likelihood of survival rather than order of arrival. This reflects:",
+    "options": {
+      "A": "Autonomy",
+      "B": "Justice",
+      "C": "Non-maleficence",
+      "D": "Fidelity"
+    },
+    "answer": "B",
+    "explanation": "Justice concerns the fair distribution of limited healthcare resources."
+  },
+  {
+    "id": 4,
+    "case": null,
+    "question": "A surgeon performs a slightly more invasive procedure than initially planned because it offers a significantly better long-term outcome for the patient. This decision is best justified by:",
+    "options": {
+      "A": "Beneficence",
+      "B": "Justice",
+      "C": "Veracity",
+      "D": "Non-maleficence"
+    },
+    "answer": "A",
+    "explanation": "Beneficence obligates the physician to act in the patient's best interest."
+  },
+  {
+    "id": 5,
+    "case": null,
+    "question": "Which scenario represents a direct conflict between beneficence and autonomy?",
+    "options": {
+      "A": "A patient with terminal cancer refuses further chemotherapy that the doctor believes could extend life",
+      "B": "A doctor charges different fees to different patients",
+      "C": "A nurse reports a colleague's error to the hospital board",
+      "D": "A researcher randomizes participants into treatment groups"
+    },
+    "answer": "A",
+    "explanation": "The doctor's wish to benefit the patient (beneficence) conflicts with the patient's right to decide (autonomy)."
+  },
+  {
+    "id": 6,
+    "case": null,
+    "question": "The 'Four Principles' framework of biomedical ethics was popularized by:",
+    "options": {
+      "A": "Hippocrates",
+      "B": "Beauchamp and Childress",
+      "C": "The World Medical Association",
+      "D": "Florence Nightingale"
+    },
+    "answer": "B",
+    "explanation": "Beauchamp and Childress introduced autonomy, beneficence, non-maleficence, and justice as a widely used framework."
+  },
+  {
+    "id": 7,
+    "case": null,
+    "question": "A physician withholds a costly but only marginally beneficial treatment from a patient because national guidelines prioritize resources for higher-yield interventions. This is an application of:",
+    "options": {
+      "A": "Autonomy",
+      "B": "Justice",
+      "C": "Fidelity",
+      "D": "Beneficence"
+    },
+    "answer": "B",
+    "explanation": "Justice involves the equitable allocation of scarce healthcare resources across a population."
+  },
+  {
+    "id": 8,
+    "case": null,
+    "question": "Which of the following best illustrates a violation of non-maleficence?",
+    "options": {
+      "A": "Prescribing an antibiotic with known efficacy for a bacterial infection",
+      "B": "Performing an unnecessary invasive procedure that carries significant risk with no clear benefit",
+      "C": "Discussing prognosis honestly with a patient",
+      "D": "Referring a patient to a specialist"
+    },
+    "answer": "B",
+    "explanation": "Performing risky, unnecessary interventions breaches the duty to avoid causing harm."
+  },
+  {
+    "id": 9,
+    "case": null,
+    "question": "A patient from a low-income background is given the same quality of care as a wealthy patient with the same condition. This upholds:",
+    "options": {
+      "A": "Distributive justice",
+      "B": "Non-maleficence",
+      "C": "Fidelity",
+      "D": "Confidentiality"
+    },
+    "answer": "A",
+    "explanation": "Distributive justice requires that healthcare resources and quality of care be allocated fairly, regardless of socioeconomic status."
+  },
+  {
+    "id": 10,
+    "case": null,
+    "question": "When two ethical principles conflict in a clinical case, the most appropriate first step is to:",
+    "options": {
+      "A": "Automatically prioritize autonomy over all other principles",
+      "B": "Analyze the specific facts of the case and weigh the principles contextually",
+      "C": "Refer the decision entirely to a hospital lawyer",
+      "D": "Always defer to the physician's personal judgment alone"
+    },
+    "answer": "B",
+    "explanation": "No principle is absolute; ethical reasoning requires balancing principles against the specifics of each case."
+  },
+  {
+    "id": 11,
+    "case": null,
+    "question": "A physician tells a patient the full truth about a poor prognosis, even though it may cause emotional distress, because the patient explicitly requested full disclosure. This primarily reflects:",
+    "options": {
+      "A": "Veracity in service of autonomy",
+      "B": "Justice",
+      "C": "Non-maleficence",
+      "D": "Paternalism"
+    },
+    "answer": "A",
+    "explanation": "Truth-telling (veracity) supports the patient's autonomous right to make informed decisions about their own life."
+  },
+  {
+    "id": 12,
+    "case": null,
+    "question": "Which action best demonstrates beneficence in a resource-limited rural clinic?",
+    "options": {
+      "A": "Referring every patient to a tertiary hospital regardless of severity",
+      "B": "Proactively organizing a vaccination outreach program to prevent disease in the community",
+      "C": "Charging market-rate fees for all services",
+      "D": "Limiting clinic hours to reduce staff workload"
+    },
+    "answer": "B",
+    "explanation": "Beneficence involves actively promoting the well-being and health of patients and the community."
+  },
+  {
+    "id": 13,
+    "case": null,
+    "question": "A doctor is asked by a wealthy patient to jump the queue for a scarce donor organ. Ethically, the physician should:",
+    "options": {
+      "A": "Accommodate the request because the patient can pay more",
+      "B": "Decline, as organ allocation should follow objective, justice-based criteria",
+      "C": "Consult only the hospital's finance department",
+      "D": "Allow the family to decide"
+    },
+    "answer": "B",
+    "explanation": "Justice requires that scarce resources like organs be allocated based on medical criteria, not wealth or status."
+  },
+  {
+    "id": 14,
+    "case": null,
+    "question": "The principle that obligates physicians to keep their promises and honor the trust patients place in them is called:",
+    "options": {
+      "A": "Fidelity",
+      "B": "Veracity",
+      "C": "Justice",
+      "D": "Non-maleficence"
+    },
+    "answer": "A",
+    "explanation": "Fidelity refers to faithfulness to commitments and the fiduciary duty owed to patients."
+  },
+  {
+    "id": 15,
+    "case": null,
+    "question": "A physician recommends a screening test that has a small risk of complications but a high likelihood of catching a treatable disease early. Balancing these principles primarily involves:",
+    "options": {
+      "A": "Beneficence versus non-maleficence",
+      "B": "Justice versus fidelity",
+      "C": "Autonomy versus veracity",
+      "D": "Confidentiality versus beneficence"
+    },
+    "answer": "A",
+    "explanation": "The physician must weigh the potential benefit of early detection against the potential harm of the test itself."
+  },
+  {
+    "id": 16,
+    "case": null,
+    "question": "Paternalism in medicine is best defined as:",
+    "options": {
+      "A": "Involving the patient's family in every decision",
+      "B": "Overriding a patient's wishes or restricting their choices for what the physician believes is their own good",
+      "C": "Providing equal care to all patients",
+      "D": "Following a strict hospital protocol"
+    },
+    "answer": "B",
+    "explanation": "Paternalism occurs when a provider's judgment about a patient's best interest overrides the patient's autonomous choice."
+  },
+  {
+    "id": 17,
+    "case": null,
+    "question": "A clinic in a rural area prioritizes vaccinating children first during a limited vaccine supply because they are most vulnerable. This prioritization is grounded in:",
+    "options": {
+      "A": "Justice",
+      "B": "Autonomy",
+      "C": "Veracity",
+      "D": "Fidelity"
+    },
+    "answer": "A",
+    "explanation": "Allocating resources based on vulnerability and medical need reflects distributive justice."
+  },
+  {
+    "id": 18,
+    "case": null,
+    "question": "Which of the following is an example of 'passive' non-maleficence?",
+    "options": {
+      "A": "Actively administering a harmful drug",
+      "B": "Withholding a treatment known to be futile and likely to cause suffering without benefit",
+      "C": "Performing elective cosmetic surgery",
+      "D": "Prescribing a well-established, effective medication"
+    },
+    "answer": "B",
+    "explanation": "Non-maleficence can involve refraining from interventions that would cause harm without corresponding benefit."
+  },
+  {
+    "id": 19,
+    "case": null,
+    "question": "A physician is asked to falsify a diagnosis so a patient can receive extended sick leave. Ethically, the physician should refuse primarily because it violates:",
+    "options": {
+      "A": "Veracity and professional integrity",
+      "B": "Justice alone",
+      "C": "Confidentiality",
+      "D": "Beneficence toward the employer"
+    },
+    "answer": "A",
+    "explanation": "Falsifying medical information breaches honesty and the physician's professional integrity."
+  },
+  {
+    "id": 20,
+    "case": null,
+    "question": "In triage during a mass casualty event, treating the most severely injured patients who have a realistic chance of survival first, ahead of the least injured, exemplifies:",
+    "options": {
+      "A": "Autonomy",
+      "B": "Utilitarian justice",
+      "C": "Veracity",
+      "D": "Fidelity"
+    },
+    "answer": "B",
+    "explanation": "Triage principles apply a justice-based, outcome-maximizing allocation of limited emergency resources."
+  },
+  {
+    "id": 21,
+    "case": null,
+    "question": "For consent to be legally and ethically valid, it must be:",
+    "options": {
+      "A": "Given by the patient's closest relative",
+      "B": "Voluntary, informed, and given by a person with capacity",
+      "C": "Written only, never verbal",
+      "D": "Obtained after treatment has begun"
+    },
+    "answer": "B",
+    "explanation": "Valid consent requires voluntariness, adequate information, and decision-making capacity."
+  },
+  {
+    "id": 22,
+    "case": null,
+    "question": "A patient signs a consent form for surgery without the physician explaining the risks, benefits, and alternatives. This consent is:",
+    "options": {
+      "A": "Valid, because a signature was obtained",
+      "B": "Invalid, because it lacks the informational component required for informed consent",
+      "C": "Valid only if a witness was present",
+      "D": "Valid if the patient is over 18"
+    },
+    "answer": "B",
+    "explanation": "A signature alone does not satisfy informed consent; the patient must understand risks, benefits, and alternatives."
+  },
+  {
+    "id": 23,
+    "case": null,
+    "question": "Which of the following is NOT typically required to be disclosed when obtaining informed consent?",
+    "options": {
+      "A": "The nature of the proposed procedure",
+      "B": "The physician's personal religious beliefs",
+      "C": "The risks and benefits of the procedure",
+      "D": "Reasonable alternatives, including no treatment"
+    },
+    "answer": "B",
+    "explanation": "Informed consent focuses on medically relevant information; a physician's personal beliefs are not a required disclosure element."
+  },
+  {
+    "id": 24,
+    "case": null,
+    "question": "In a true emergency where a patient is unconscious and no surrogate is available, a physician may proceed with life-saving treatment under the doctrine of:",
+    "options": {
+      "A": "Implied consent",
+      "B": "Substituted judgment",
+      "C": "Therapeutic privilege",
+      "D": "Proxy consent"
+    },
+    "answer": "A",
+    "explanation": "Implied consent allows emergency treatment when a reasonable person would consent and delay would cause harm."
+  },
+  {
+    "id": 25,
+    "case": null,
+    "question": "Therapeutic privilege refers to a physician's limited ability to:",
+    "options": {
+      "A": "Withhold certain information if disclosure would cause serious psychological harm to the patient",
+      "B": "Refuse to treat a patient",
+      "C": "Override a patient's refusal of treatment",
+      "D": "Charge higher fees for complex cases"
+    },
+    "answer": "A",
+    "explanation": "Therapeutic privilege is a narrow, controversial exception allowing withholding of information likely to cause serious harm, though it must be used cautiously and is increasingly limited."
+  },
+  {
+    "id": 26,
+    "case": null,
+    "question": "A 16-year-old requests treatment for a sexually transmitted infection without parental knowledge. In many jurisdictions, this is permitted under the concept of:",
+    "options": {
+      "A": "Mature minor doctrine",
+      "B": "Substituted judgment",
+      "C": "Therapeutic privilege",
+      "D": "Proxy consent"
+    },
+    "answer": "A",
+    "explanation": "The mature minor doctrine allows adolescents who demonstrate sufficient understanding to consent to certain treatments independently."
+  },
+  {
+    "id": 27,
+    "case": null,
+    "question": "Which best describes the difference between consent and assent in pediatric care?",
+    "options": {
+      "A": "They are identical legal concepts",
+      "B": "Consent is given by a legally authorized decision-maker, while assent reflects a child's agreement even without full legal authority",
+      "C": "Assent is only relevant for adults",
+      "D": "Consent applies only to research, assent only to treatment"
+    },
+    "answer": "B",
+    "explanation": "Assent involves a child's affirmative agreement, while legal consent is provided by a parent or guardian."
+  },
+  {
+    "id": 28,
+    "case": null,
+    "question": "A patient with early-stage dementia has fluctuating capacity. Before a scheduled procedure, the physician should:",
+    "options": {
+      "A": "Assume the patient always lacks capacity",
+      "B": "Assess capacity specifically for the decision at hand, at the relevant time",
+      "C": "Rely solely on the family's opinion",
+      "D": "Proceed without further assessment"
+    },
+    "answer": "B",
+    "explanation": "Capacity is decision-specific and time-specific; it must be reassessed for the particular decision being made."
+  },
+  {
+    "id": 29,
+    "case": null,
+    "question": "A patient consents to a diagnostic laparoscopy but explicitly states they do not want any additional procedures performed without further discussion. During surgery, the surgeon finds an unrelated but serious condition. The surgeon should:",
+    "options": {
+      "A": "Immediately treat the unrelated condition without waking the patient",
+      "B": "Respect the scope of the original consent and address the new finding after the patient regains capacity to decide, unless it is a life-threatening emergency",
+      "C": "Only inform the family",
+      "D": "Cancel the entire procedure"
+    },
+    "answer": "B",
+    "explanation": "Consent is procedure-specific; expanding treatment beyond the agreed scope generally requires new consent unless it is a genuine emergency."
+  },
+  {
+    "id": 30,
+    "case": null,
+    "question": "Which of the following patients most clearly lacks the capacity to provide informed consent?",
+    "options": {
+      "A": "A patient who disagrees with the physician's recommendation but understands the risks",
+      "B": "A patient who is acutely psychotic and cannot understand the nature of the proposed treatment",
+      "C": "An elderly patient who asks many questions before deciding",
+      "D": "A patient who wants a second opinion"
+    },
+    "answer": "B",
+    "explanation": "Capacity requires the ability to understand, appreciate, and reason about the decision; acute psychosis can impair this ability."
+  },
+  {
+    "id": 31,
+    "case": null,
+    "question": "The legal doctrine holding a physician liable for performing a procedure without adequate consent, even if performed skillfully, is most closely associated with the tort of:",
+    "options": {
+      "A": "Battery or negligence",
+      "B": "Defamation",
+      "C": "Breach of contract only",
+      "D": "Nuisance"
+    },
+    "answer": "A",
+    "explanation": "Treating a patient without valid consent can constitute battery (unauthorized touching) or negligence (failure to disclose adequately)."
+  },
+  {
+    "id": 32,
+    "case": null,
+    "question": "A surrogate decision-maker for an incapacitated patient should ideally base decisions on:",
+    "options": {
+      "A": "Their own personal preferences",
+      "B": "What the patient would have wanted, based on known values (substituted judgment), or the patient's best interest if unknown",
+      "C": "Hospital cost considerations only",
+      "D": "The physician's convenience"
+    },
+    "answer": "B",
+    "explanation": "Surrogates should apply substituted judgment when the patient's wishes are known, or a best-interest standard when they are not."
+  },
+  {
+    "id": 33,
+    "case": null,
+    "question": "Which statement about consent forms is most accurate?",
+    "options": {
+      "A": "A signed form is legally sufficient proof that true informed consent occurred",
+      "B": "A signed form documents the consent discussion but does not by itself guarantee that consent was truly informed",
+      "C": "Consent forms are not necessary for any procedure",
+      "D": "Verbal consent is never legally valid"
+    },
+    "answer": "B",
+    "explanation": "The consent form is documentation of a process; genuine informed consent depends on the quality of communication and understanding."
+  },
+  {
+    "id": 34,
+    "case": null,
+    "question": "A patient with limited health literacy nods along during a consent discussion but cannot repeat back the key risks when asked. The physician should:",
+    "options": {
+      "A": "Proceed, since the patient nodded in agreement",
+      "B": "Use simpler language, teach-back techniques, or an interpreter to confirm genuine understanding before proceeding",
+      "C": "Ask a family member to consent instead",
+      "D": "Document that consent was obtained and move on"
+    },
+    "answer": "B",
+    "explanation": "True informed consent requires confirmed understanding, which may require adapting communication methods."
+  },
+  {
+    "id": 35,
+    "case": null,
+    "question": "Which of the following situations most clearly requires a new, separate informed consent discussion?",
+    "options": {
+      "A": "A routine follow-up visit with no new interventions",
+      "B": "A significant change in the treatment plan involving new risks not previously discussed",
+      "C": "Refilling a stable, long-term prescription",
+      "D": "Taking a patient's vital signs"
+    },
+    "answer": "B",
+    "explanation": "Consent must be updated whenever there is a material change in the risks, benefits, or nature of proposed care."
+  },
+  {
+    "id": 36,
+    "case": null,
+    "question": "The primary ethical justification for maintaining patient confidentiality is to:",
+    "options": {
+      "A": "Protect the hospital from lawsuits",
+      "B": "Foster trust so patients feel safe disclosing sensitive information necessary for their care",
+      "C": "Reduce paperwork",
+      "D": "Comply with insurance company requirements only"
+    },
+    "answer": "B",
+    "explanation": "Confidentiality builds the trust necessary for patients to be open and honest, which is essential for effective care."
+  },
+  {
+    "id": 37,
+    "case": null,
+    "question": "A patient discloses to their physician an intention to seriously harm a specific identifiable third party. The physician's ethical duty here is best described by the concept of:",
+    "options": {
+      "A": "Absolute confidentiality with no exceptions",
+      "B": "Duty to warn/protect, which may justify breaching confidentiality to prevent serious harm",
+      "C": "Therapeutic privilege",
+      "D": "Substituted judgment"
+    },
+    "answer": "B",
+    "explanation": "Most ethical and legal frameworks recognize a duty to warn or protect identifiable victims from serious, credible threats, as an exception to confidentiality."
+  },
+  {
+    "id": 38,
+    "case": null,
+    "question": "Which disclosure of patient information is generally permitted without explicit patient consent?",
+    "options": {
+      "A": "Sharing details with a patient's employer for workplace decisions",
+      "B": "Reporting a legally mandated notifiable infectious disease to public health authorities",
+      "C": "Discussing a case with friends outside the hospital",
+      "D": "Posting case details on social media without identifiers"
+    },
+    "answer": "B",
+    "explanation": "Public health reporting of notifiable diseases is a well-established, legally mandated exception to confidentiality."
+  },
+  {
+    "id": 39,
+    "case": null,
+    "question": "A medical student discusses a patient's case in a crowded elevator, using the patient's full name. This is primarily a violation of:",
+    "options": {
+      "A": "Beneficence",
+      "B": "Confidentiality and privacy",
+      "C": "Informed consent",
+      "D": "Justice"
+    },
+    "answer": "B",
+    "explanation": "Casual, identifiable disclosure of patient information in a public space breaches confidentiality."
+  },
+  {
+    "id": 40,
+    "case": null,
+    "question": "Under most professional codes, confidentiality obligations after a patient's death:",
+    "options": {
+      "A": "End immediately upon death",
+      "B": "Generally continue, though they may be balanced against other interests such as public health or legal requirements",
+      "C": "Only apply to living patients",
+      "D": "Are transferred entirely to the family to decide freely"
+    },
+    "answer": "B",
+    "explanation": "Ethical duties of confidentiality typically extend beyond death, though exceptions exist for legitimate public or legal interests."
+  },
+  {
+    "id": 41,
+    "case": null,
+    "question": "A physician wants to use a real patient's case, including identifying details, in a public lecture without consent. This is:",
+    "options": {
+      "A": "Acceptable if the case is medically interesting",
+      "B": "A breach of confidentiality unless the information is properly de-identified or consent is obtained",
+      "C": "Always acceptable for educational purposes",
+      "D": "Only a concern if the patient finds out"
+    },
+    "answer": "B",
+    "explanation": "Educational use of patient cases requires either informed consent or adequate de-identification to protect confidentiality."
+  },
+  {
+    "id": 42,
+    "case": null,
+    "question": "An adolescent patient asks that certain sensitive information (e.g., about sexual health) not be shared with their parents. The physician should generally:",
+    "options": {
+      "A": "Automatically inform the parents regardless of the request",
+      "B": "Respect the adolescent's request when legally and ethically appropriate, based on local law and the minor's maturity",
+      "C": "Refuse to treat the adolescent",
+      "D": "Discuss it only with the school"
+    },
+    "answer": "B",
+    "explanation": "Many frameworks recognize adolescent confidentiality rights for sensitive services, balanced against local legal requirements and maturity."
+  },
+  {
+    "id": 43,
+    "case": null,
+    "question": "Electronic health records should be accessed by hospital staff:",
+    "options": {
+      "A": "Only when directly involved in that patient's care or for a legitimate authorized purpose",
+      "B": "By any staff member out of curiosity",
+      "C": "Freely by all administrative staff at any time",
+      "D": "Only by physicians, never by nurses"
+    },
+    "answer": "A",
+    "explanation": "Access to health records should be limited to those with a legitimate, care-related need, to protect patient privacy."
+  },
+  {
+    "id": 44,
+    "case": null,
+    "question": "A researcher wants to publish a case report with rare identifying features that could allow the patient to be recognized despite removing the name. The ethically appropriate step is to:",
+    "options": {
+      "A": "Publish it anyway since the name was removed",
+      "B": "Obtain explicit patient consent for publication given the risk of identification",
+      "C": "Change the diagnosis to prevent recognition",
+      "D": "Publish only in a low-circulation journal"
+    },
+    "answer": "B",
+    "explanation": "When de-identification is insufficient to prevent recognition, explicit consent is ethically required before publication."
+  },
+  {
+    "id": 45,
+    "case": null,
+    "question": "Confidentiality may ethically be breached without patient consent primarily when:",
+    "options": {
+      "A": "The physician personally disagrees with the patient's lifestyle",
+      "B": "There is a serious, credible risk of harm to the patient or identifiable others, or a legal mandate exists",
+      "C": "The information is medically interesting",
+      "D": "A family member simply asks for it"
+    },
+    "answer": "B",
+    "explanation": "Breaches are justified only by significant risk of harm or clear legal obligation, not by convenience or curiosity."
+  },
+  {
+    "id": 46,
+    "case": null,
+    "question": "A competent, terminally ill patient requests that a ventilator be withdrawn, understanding this will lead to death. Withdrawing the ventilator at the patient's request is:",
+    "options": {
+      "A": "Considered euthanasia in most ethical frameworks",
+      "B": "Ethically and legally distinct from euthanasia; it is respecting the patient's right to refuse treatment",
+      "C": "Never permissible under any circumstances",
+      "D": "Only permissible if the family agrees"
+    },
+    "answer": "B",
+    "explanation": "Withdrawing life-sustaining treatment at a competent patient's request is generally distinguished from euthanasia, as it allows the underlying disease to take its course."
+  },
+  {
+    "id": 47,
+    "case": null,
+    "question": "The ethical distinction between 'killing' and 'letting die' is most relevant to differentiating:",
+    "options": {
+      "A": "Active euthanasia from withdrawal of life-sustaining treatment",
+      "B": "Informed consent from assent",
+      "C": "Justice from beneficence",
+      "D": "Confidentiality from privacy"
+    },
+    "answer": "A",
+    "explanation": "This classic distinction underlies the difference between actively ending life and allowing a natural death by withholding or withdrawing treatment."
+  },
+  {
+    "id": 48,
+    "case": null,
+    "question": "A 'Do Not Resuscitate' (DNR) order means that:",
+    "options": {
+      "A": "All medical treatment will be stopped",
+      "B": "Cardiopulmonary resuscitation will not be attempted if the patient's heart or breathing stops, but other treatments continue as appropriate",
+      "C": "The patient is refusing all pain management",
+      "D": "Physicians are legally barred from further care"
+    },
+    "answer": "B",
+    "explanation": "A DNR order specifically addresses resuscitation efforts and does not mean withdrawal of all other care."
+  },
+  {
+    "id": 49,
+    "case": null,
+    "question": "The doctrine of 'double effect' is most relevant to justifying:",
+    "options": {
+      "A": "Administering high-dose opioids for pain relief in a dying patient, even if this may hasten death as a foreseen but unintended effect",
+      "B": "Actively administering a lethal injection",
+      "C": "Withholding pain medication to preserve consciousness",
+      "D": "Refusing to treat a dying patient"
+    },
+    "answer": "A",
+    "explanation": "Double effect distinguishes an intended good effect (pain relief) from a foreseen but unintended harmful effect (hastened death), provided the harmful effect is not the means to the good one."
+  },
+  {
+    "id": 50,
+    "case": null,
+    "question": "Physician-assisted death differs from active euthanasia primarily in that:",
+    "options": {
+      "A": "The physician prescribes a lethal medication, but the patient administers it themselves",
+      "B": "The physician administers the lethal medication directly",
+      "C": "It is legal everywhere",
+      "D": "It requires no patient consent"
+    },
+    "answer": "A",
+    "explanation": "In physician-assisted death, the patient — not the physician — performs the final act of self-administration."
+  },
+  {
+    "id": 51,
+    "case": null,
+    "question": "An advance directive is best described as:",
+    "options": {
+      "A": "A document created only after a patient loses capacity",
+      "B": "A statement made by a patient while competent, expressing their wishes for future medical care if they lose decision-making capacity",
+      "C": "A form only physicians can complete",
+      "D": "A legally binding contract that cannot ever be changed"
+    },
+    "answer": "B",
+    "explanation": "Advance directives allow patients to express healthcare preferences in advance, to be used if they later lose capacity."
+  },
+  {
+    "id": 52,
+    "case": null,
+    "question": "When a patient has no advance directive and no available surrogate, and is incapacitated with a poor prognosis, the healthcare team should generally make decisions based on:",
+    "options": {
+      "A": "The physician's personal preference",
+      "B": "The patient's best interest, often guided by an ethics committee",
+      "C": "Random selection",
+      "D": "Whichever option is least expensive"
+    },
+    "answer": "B",
+    "explanation": "In the absence of directives or surrogates, a best-interest standard, often supported by an ethics committee, guides decision-making."
+  },
+  {
+    "id": 53,
+    "case": null,
+    "question": "Medical futility refers to a situation where:",
+    "options": {
+      "A": "A treatment is expensive but effective",
+      "B": "A treatment offers no reasonable chance of achieving a meaningful benefit for the patient",
+      "C": "A patient refuses treatment",
+      "D": "A physician disagrees with a colleague"
+    },
+    "answer": "B",
+    "explanation": "Futile treatments are those unlikely to achieve any meaningful physiological or clinical benefit for the patient."
+  },
+  {
+    "id": 54,
+    "case": null,
+    "question": "Palliative care is best defined as:",
+    "options": {
+      "A": "Care provided only in the final 24 hours of life",
+      "B": "An approach focused on relieving suffering and improving quality of life for patients with serious illness, which can be provided alongside curative treatment",
+      "C": "A synonym for euthanasia",
+      "D": "Care only available in hospice facilities"
+    },
+    "answer": "B",
+    "explanation": "Palliative care addresses symptom control and quality of life and can be integrated with curative treatment at any stage of serious illness."
+  },
+  {
+    "id": 55,
+    "case": null,
+    "question": "A family insists on continuing aggressive treatment for a patient in a persistent vegetative state with no prospect of recovery, against the medical team's recommendation. The most appropriate initial step is:",
+    "options": {
+      "A": "Immediately withdraw care against the family's wishes",
+      "B": "Engage in further communication, involve an ethics consultation, and explore the family's concerns and the patient's previously expressed wishes",
+      "C": "Discharge the patient immediately",
+      "D": "Ignore the family entirely"
+    },
+    "answer": "B",
+    "explanation": "Conflicts over end-of-life care are best addressed through communication, ethics consultation, and exploration of the patient's values before unilateral action."
+  },
+  {
+    "id": 56,
+    "case": null,
+    "question": "Which best describes the ethical principle underlying hospice and palliative sedation for intractable suffering at the end of life?",
+    "options": {
+      "A": "It is equivalent to euthanasia in intent",
+      "B": "It aims to relieve refractory symptoms, with sedation as a proportionate response to suffering, not to intentionally cause death",
+      "C": "It is illegal in all countries",
+      "D": "It requires no patient or surrogate consent"
+    },
+    "answer": "B",
+    "explanation": "Palliative sedation is intended to control otherwise unmanageable symptoms, distinguishing its intent from that of euthanasia."
+  },
+  {
+    "id": 57,
+    "case": null,
+    "question": "A terminally ill patient with full decision-making capacity refuses artificial nutrition and hydration. The healthcare team should:",
+    "options": {
+      "A": "Force feeding to prevent death",
+      "B": "Respect the patient's autonomous refusal and focus on comfort care",
+      "C": "Obtain a court order to override the patient",
+      "D": "Discharge the patient without further care"
+    },
+    "answer": "B",
+    "explanation": "A competent patient has the right to refuse any treatment, including artificial nutrition and hydration."
+  },
+  {
+    "id": 58,
+    "case": null,
+    "question": "The ethical concept of 'proportionality' in end-of-life decision-making refers to:",
+    "options": {
+      "A": "Weighing the benefits of an intervention against its burdens for that specific patient",
+      "B": "Giving every patient the same treatment regardless of circumstances",
+      "C": "Always choosing the most aggressive treatment available",
+      "D": "A legal requirement unrelated to ethics"
+    },
+    "answer": "A",
+    "explanation": "Proportionality means treatments should be pursued only when their expected benefits reasonably outweigh their burdens for the individual patient."
+  },
+  {
+    "id": 59,
+    "case": null,
+    "question": "Which statement about brain death is most accurate?",
+    "options": {
+      "A": "Brain death is a reversible coma",
+      "B": "Brain death is the irreversible cessation of all functions of the entire brain, including the brainstem, and is legally equivalent to death",
+      "C": "Brain death requires family consent to be declared",
+      "D": "Brain death only applies to elderly patients"
+    },
+    "answer": "B",
+    "explanation": "Brain death represents complete and irreversible loss of brain function and is legally recognized as death."
+  },
+  {
+    "id": 60,
+    "case": null,
+    "question": "A physician disagrees personally with a patient's decision to forgo further treatment but the patient is competent and fully informed. The physician should:",
+    "options": {
+      "A": "Refuse to discharge the patient",
+      "B": "Respect the patient's autonomous decision while ensuring the patient understands the consequences, and continue to offer supportive care",
+      "C": "Report the patient to authorities",
+      "D": "Terminate the physician-patient relationship immediately without transition"
+    },
+    "answer": "B",
+    "explanation": "Physicians must respect informed, competent refusals even when they personally disagree, while ensuring understanding and continued support."
+  },
+  {
+    "id": 61,
+    "case": null,
+    "question": "A pharmaceutical representative offers a physician an expensive personal gift in exchange for prescribing their product preferentially. Accepting this gift primarily raises concerns about:",
+    "options": {
+      "A": "Justice",
+      "B": "Conflict of interest",
+      "C": "Confidentiality",
+      "D": "Informed consent"
+    },
+    "answer": "B",
+    "explanation": "Accepting gifts tied to prescribing behavior creates a conflict between the physician's financial interest and the patient's best interest."
+  },
+  {
+    "id": 62,
+    "case": null,
+    "question": "Which of the following best describes a professional boundary violation?",
+    "options": {
+      "A": "A physician maintaining a strictly professional relationship with a patient",
+      "B": "A physician entering into a romantic relationship with a current patient",
+      "C": "A physician referring a patient to a specialist",
+      "D": "A physician documenting a visit accurately"
+    },
+    "answer": "B",
+    "explanation": "Romantic or sexual relationships with current patients represent a serious breach of professional boundaries due to the inherent power imbalance."
+  },
+  {
+    "id": 63,
+    "case": null,
+    "question": "A junior doctor witnesses a senior colleague making a significant clinical error that harmed a patient. The most professionally appropriate action is to:",
+    "options": {
+      "A": "Say nothing to avoid conflict",
+      "B": "Report the error through appropriate channels to ensure patient safety and proper disclosure",
+      "C": "Only tell other junior colleagues informally",
+      "D": "Confront the senior colleague publicly in front of patients"
+    },
+    "answer": "B",
+    "explanation": "Professionalism requires prioritizing patient safety and using proper channels to report and address errors."
+  },
+  {
+    "id": 64,
+    "case": null,
+    "question": "When a medical error occurs that harms a patient, the ethically appropriate response is to:",
+    "options": {
+      "A": "Conceal the error to avoid liability",
+      "B": "Disclose the error honestly to the patient, explain its impact, and outline steps being taken to address it",
+      "C": "Blame another staff member",
+      "D": "Wait to see if the patient notices"
+    },
+    "answer": "B",
+    "explanation": "Honest disclosure of errors upholds veracity, respects patient autonomy, and maintains trust, even though it may be difficult."
+  },
+  {
+    "id": 65,
+    "case": null,
+    "question": "A physician treats patients differently based on their ethnicity, providing less thorough examinations to one group. This violates:",
+    "options": {
+      "A": "Justice and professional ethics",
+      "B": "Confidentiality",
+      "C": "Informed consent only",
+      "D": "Fidelity only"
+    },
+    "answer": "A",
+    "explanation": "Discriminatory care violates the principle of justice, which requires fair and equal treatment of all patients."
+  },
+  {
+    "id": 66,
+    "case": null,
+    "question": "Maintaining appropriate professional boundaries with patients primarily serves to:",
+    "options": {
+      "A": "Protect the physician's income",
+      "B": "Preserve the trust, objectivity, and safety essential to the therapeutic relationship",
+      "C": "Reduce documentation requirements",
+      "D": "Limit patient access to care"
+    },
+    "answer": "B",
+    "explanation": "Boundaries protect patients from exploitation and preserve the physician's clinical objectivity."
+  },
+  {
+    "id": 67,
+    "case": null,
+    "question": "A physician is asked by a friend, who is not their patient, for a prescription without an examination. The most appropriate response is to:",
+    "options": {
+      "A": "Write the prescription as a favor",
+      "B": "Decline and recommend the friend be properly evaluated, as prescribing without assessment is unsafe and unprofessional",
+      "C": "Write it but tell no one",
+      "D": "Ask the friend to pay extra for the favor"
+    },
+    "answer": "B",
+    "explanation": "Prescribing without proper evaluation risks patient safety and violates professional standards, even for personal acquaintances."
+  },
+  {
+    "id": 68,
+    "case": null,
+    "question": "Cultural humility in the doctor-patient relationship is best described as:",
+    "options": {
+      "A": "Assuming all patients from a given culture have identical beliefs",
+      "B": "An ongoing process of self-reflection and openness to understanding each patient's unique cultural context and values",
+      "C": "Ignoring cultural differences entirely",
+      "D": "Only relevant for foreign patients"
+    },
+    "answer": "B",
+    "explanation": "Cultural humility emphasizes lifelong self-reflection and individualized understanding rather than generalized assumptions."
+  },
+  {
+    "id": 69,
+    "case": null,
+    "question": "A physician who is impaired by alcohol use is scheduled to see patients. A colleague who becomes aware of this has an ethical duty to:",
+    "options": {
+      "A": "Ignore it to protect the colleague's reputation",
+      "B": "Take appropriate action to protect patient safety, which may include reporting to relevant authorities",
+      "C": "Cover the shift without telling anyone",
+      "D": "Wait until a patient is harmed before acting"
+    },
+    "answer": "B",
+    "explanation": "Protecting patients from an impaired colleague is an ethical obligation that outweighs professional loyalty."
+  },
+  {
+    "id": 70,
+    "case": null,
+    "question": "The concept of 'shared decision-making' in the doctor-patient relationship refers to:",
+    "options": {
+      "A": "The physician making all decisions unilaterally",
+      "B": "A collaborative process where physician expertise and patient values/preferences are combined to reach a treatment decision",
+      "C": "The patient making decisions without any medical input",
+      "D": "A legal requirement only for surgical procedures"
+    },
+    "answer": "B",
+    "explanation": "Shared decision-making blends clinical expertise with patient preferences to reach mutually agreed-upon care plans."
+  },
+  {
+    "id": 71,
+    "case": null,
+    "question": "The Belmont Report established three core ethical principles for research involving human subjects. These are:",
+    "options": {
+      "A": "Autonomy, beneficence, and justice",
+      "B": "Respect for persons, beneficence, and justice",
+      "C": "Confidentiality, fidelity, and veracity",
+      "D": "Non-maleficence, justice, and honesty"
+    },
+    "answer": "B",
+    "explanation": "The Belmont Report's three principles are respect for persons, beneficence, and justice, which underpin modern research ethics."
+  },
+  {
+    "id": 72,
+    "case": null,
+    "question": "The primary purpose of an Institutional Review Board (IRB) or Ethics Committee is to:",
+    "options": {
+      "A": "Approve research funding",
+      "B": "Review and oversee research proposals to protect the rights and welfare of human subjects",
+      "C": "Manage hospital finances",
+      "D": "Hire research staff"
+    },
+    "answer": "B",
+    "explanation": "IRBs/Ethics Committees exist specifically to safeguard research participants' rights, safety, and welfare."
+  },
+  {
+    "id": 73,
+    "case": null,
+    "question": "In a randomized controlled trial, 'equipoise' refers to:",
+    "options": {
+      "A": "Genuine uncertainty within the medical community about which treatment arm is superior",
+      "B": "Equal number of participants in each group",
+      "C": "Equal funding for each study site",
+      "D": "Equal pay for all researchers"
+    },
+    "answer": "A",
+    "explanation": "Clinical equipoise justifies randomization ethically, as there must be genuine uncertainty about which intervention is better."
+  },
+  {
+    "id": 74,
+    "case": null,
+    "question": "Which historical event most directly led to the development of the Nuremberg Code?",
+    "options": {
+      "A": "The Tuskegee syphilis study",
+      "B": "Unethical human experimentation by Nazi physicians during World War II",
+      "C": "The Belmont Report",
+      "D": "The Declaration of Helsinki"
+    },
+    "answer": "B",
+    "explanation": "The Nuremberg Code was developed in response to atrocities committed in Nazi human experimentation during WWII."
+  },
+  {
+    "id": 75,
+    "case": null,
+    "question": "The Tuskegee syphilis study is widely cited as a major ethical failure primarily because:",
+    "options": {
+      "A": "Participants were denied effective treatment without informed consent, even after treatment became available",
+      "B": "It was too expensive",
+      "C": "It involved animal subjects",
+      "D": "It was conducted outside the United States"
+    },
+    "answer": "A",
+    "explanation": "Researchers withheld known effective treatment from participants without their informed consent over decades, a profound ethical violation."
+  },
+  {
+    "id": 76,
+    "case": null,
+    "question": "Vulnerable populations in research (e.g., prisoners, children, pregnant women) require additional ethical safeguards primarily because:",
+    "options": {
+      "A": "They are more interesting to study",
+      "B": "They may have limited capacity to give free and informed consent, or face increased risk of coercion or exploitation",
+      "C": "They are excluded from all research",
+      "D": "Research on them is always prohibited"
+    },
+    "answer": "B",
+    "explanation": "Vulnerable groups may face compromised autonomy or heightened risk of coercion, necessitating extra protections rather than exclusion."
+  },
+  {
+    "id": 77,
+    "case": null,
+    "question": "A placebo-controlled trial is ethically justified when:",
+    "options": {
+      "A": "No proven effective treatment exists for the condition being studied, or withholding treatment poses minimal risk",
+      "B": "The researcher wants faster results",
+      "C": "Participants are not told about the placebo arm",
+      "D": "It reduces the cost of the study"
+    },
+    "answer": "A",
+    "explanation": "Placebo use is ethically justified mainly when no effective treatment exists or the risk of withholding treatment is minimal, with participants informed of this possibility."
+  },
+  {
+    "id": 78,
+    "case": null,
+    "question": "A researcher discovers that continuing a clinical trial would expose participants in the control group to unnecessary ongoing harm because the experimental treatment is clearly superior. The ethical action is to:",
+    "options": {
+      "A": "Continue the trial as originally planned to complete data collection",
+      "B": "Stop or modify the trial early to protect participant welfare",
+      "C": "Hide the interim results",
+      "D": "Only inform the funding agency"
+    },
+    "answer": "B",
+    "explanation": "Ongoing participant safety takes priority over completing the original study design; interim results warranting harm reduction should prompt early stopping or modification."
+  },
+  {
+    "id": 79,
+    "case": null,
+    "question": "Informed consent in research differs from clinical informed consent in that research consent must additionally disclose:",
+    "options": {
+      "A": "The researcher's personal opinions",
+      "B": "That participation is voluntary, and details about study procedures, risks, potential lack of direct benefit, and the right to withdraw at any time",
+      "C": "Only the funding source",
+      "D": "Nothing different from clinical consent"
+    },
+    "answer": "B",
+    "explanation": "Research consent has specific additional elements, including voluntariness, right to withdraw, and clarity that direct benefit is not guaranteed."
+  },
+  {
+    "id": 80,
+    "case": null,
+    "question": "Conflicts of interest in research (e.g., a researcher owning stock in the company funding their drug trial) should be managed primarily by:",
+    "options": {
+      "A": "Hiding the conflict from participants and journals",
+      "B": "Full disclosure to the ethics committee, participants, and publication venues, with appropriate oversight",
+      "C": "Allowing the researcher to self-regulate without disclosure",
+      "D": "Ignoring it if the drug seems effective"
+    },
+    "answer": "B",
+    "explanation": "Transparency and disclosure of conflicts of interest are essential to maintaining research integrity and public trust."
+  },
+  {
+    "id": 81,
+    "case": null,
+    "question": "Decision-making capacity, unlike legal competence, is best understood as:",
+    "options": {
+      "A": "A fixed, permanent legal status determined only by a court",
+      "B": "A clinical assessment that can vary by decision and over time, based on the ability to understand, appreciate, reason, and communicate a choice",
+      "C": "Identical in meaning to competence in all contexts",
+      "D": "Something only psychiatrists can ever assess"
+    },
+    "answer": "B",
+    "explanation": "Capacity is a functional, clinical concept assessed for specific decisions, while competence is typically a legal determination."
+  },
+  {
+    "id": 82,
+    "case": null,
+    "question": "A patient with a mild intellectual disability wants to make their own decision about a minor elective procedure and demonstrates understanding of the relevant information. The physician should:",
+    "options": {
+      "A": "Automatically require a guardian's consent regardless of the patient's understanding",
+      "B": "Respect the patient's autonomous decision, since capacity — not diagnosis alone — determines decision-making authority",
+      "C": "Refuse to treat the patient",
+      "D": "Assume the patient cannot understand anything"
+    },
+    "answer": "B",
+    "explanation": "A diagnosis alone does not determine capacity; individualized assessment of understanding for the specific decision is required."
+  },
+  {
+    "id": 83,
+    "case": null,
+    "question": "When treating a pregnant patient who refuses a medically recommended intervention that could benefit the fetus, most ethical frameworks emphasize:",
+    "options": {
+      "A": "The fetus's interests always override the mother's autonomy",
+      "B": "Respecting the pregnant patient's autonomy as a competent decision-maker, while engaging in careful counseling and shared decision-making",
+      "C": "Automatic legal intervention in every case",
+      "D": "Ignoring the mother's wishes entirely"
+    },
+    "answer": "B",
+    "explanation": "Most contemporary ethical guidance emphasizes respecting the autonomy of the competent pregnant patient, favoring persuasion and dialogue over coercion."
+  },
+  {
+    "id": 84,
+    "case": null,
+    "question": "Parental refusal of a clearly life-saving, low-risk treatment for a child (e.g., refusing antibiotics for a severe bacterial infection) may ethically justify:",
+    "options": {
+      "A": "Immediate acceptance of the parents' decision with no further action",
+      "B": "Seeking legal intervention to protect the child's welfare, as parental authority is not absolute when a child's life is at serious risk",
+      "C": "Ignoring the situation entirely",
+      "D": "Referring the family to social media for advice"
+    },
+    "answer": "B",
+    "explanation": "Parental decision-making authority can be ethically and legally overridden when it poses serious, preventable risk to a child's life or health."
+  },
+  {
+    "id": 85,
+    "case": null,
+    "question": "In assessing capacity in an elderly patient with early cognitive impairment, the physician should focus on:",
+    "options": {
+      "A": "The patient's age alone",
+      "B": "The patient's ability to understand and reason about the specific decision at hand, not a global label of 'demented'",
+      "C": "Whether the family agrees with the patient",
+      "D": "The patient's prior occupation"
+    },
+    "answer": "B",
+    "explanation": "Capacity assessment must be decision-specific, focusing on functional understanding rather than a general diagnostic label."
+  },
+  {
+    "id": 86,
+    "case": null,
+    "question": "A patient who is a refugee and does not speak the local language is being asked to consent to a procedure. The most ethically appropriate step is to:",
+    "options": {
+      "A": "Have a family member interpret informally regardless of accuracy concerns",
+      "B": "Use a qualified professional interpreter to ensure accurate, unbiased communication for informed consent",
+      "C": "Proceed using gestures alone",
+      "D": "Postpone care indefinitely"
+    },
+    "answer": "B",
+    "explanation": "Professional interpretation helps ensure accurate understanding, which is essential for valid informed consent, especially in vulnerable populations."
+  },
+  {
+    "id": 87,
+    "case": null,
+    "question": "Which of the following best reflects respect for the autonomy of a patient with a physical disability?",
+    "options": {
+      "A": "Assuming they cannot make their own medical decisions",
+      "B": "Communicating directly with the patient and involving them fully in decisions, rather than defaulting to caregivers",
+      "C": "Making all decisions through their caregiver by default",
+      "D": "Limiting the information given to them"
+    },
+    "answer": "B",
+    "explanation": "Physical disability alone does not imply diminished decision-making capacity; patients should be engaged directly whenever able."
+  },
+  {
+    "id": 88,
+    "case": null,
+    "question": "An elderly patient's family requests that the physician not disclose a serious diagnosis directly to the patient, fearing it will cause distress. The physician should generally:",
+    "options": {
+      "A": "Automatically comply with the family's wishes",
+      "B": "Explore the patient's own preferences for information first, since patients generally have the right to know their diagnosis unless they explicitly decline",
+      "C": "Tell only the family and never the patient",
+      "D": "Refuse to see the family at all"
+    },
+    "answer": "B",
+    "explanation": "While cultural sensitivity matters, the competent patient's own preference for disclosure should generally guide the physician's approach."
+  },
+  {
+    "id": 89,
+    "case": null,
+    "question": "A prisoner requires a medical decision to be made while incarcerated. Ethically, the physician's primary obligation is to:",
+    "options": {
+      "A": "Follow prison administration's wishes over medical judgment",
+      "B": "Provide the same standard of care and respect for autonomy as with any other patient, within the constraints of the correctional setting",
+      "C": "Deny elective treatments as a form of punishment",
+      "D": "Share all medical information with prison guards freely"
+    },
+    "answer": "B",
+    "explanation": "Prisoners retain a right to appropriate medical care and, where feasible, respect for autonomy, despite the constraints of incarceration."
+  },
+  {
+    "id": 90,
+    "case": null,
+    "question": "A patient with severe major depression refuses a straightforward, low-risk treatment for a curable illness, and the refusal appears directly driven by depressive hopelessness. The physician should:",
+    "options": {
+      "A": "Accept the refusal immediately without further evaluation",
+      "B": "Further evaluate the patient's capacity, since severe depression may impair the ability to reason about the decision, and seek psychiatric input",
+      "C": "Ignore the mental health concern entirely",
+      "D": "Force treatment without any assessment"
+    },
+    "answer": "B",
+    "explanation": "Severe mental illness can compromise capacity for a specific decision, warranting careful evaluation before accepting a potentially impaired refusal."
+  },
+  {
+    "id": 91,
+    "case": null,
+    "question": "In Cambodia, the primary professional body responsible for licensing and regulating the conduct of physicians is the:",
+    "options": {
+      "A": "Ministry of Education",
+      "B": "Cambodian Medical Council",
+      "C": "Ministry of Foreign Affairs",
+      "D": "National Bank of Cambodia"
+    },
+    "answer": "B",
+    "explanation": "The Cambodian Medical Council oversees physician licensing, registration, and professional conduct standards in Cambodia."
+  },
+  {
+    "id": 92,
+    "case": null,
+    "question": "Under Cambodian healthcare regulation, a physician found to have committed serious professional misconduct may face which of the following consequences?",
+    "options": {
+      "A": "No consequences if the patient does not complain",
+      "B": "Disciplinary action, which may include suspension or revocation of their medical license",
+      "C": "Only a small fine regardless of severity",
+      "D": "Automatic imprisonment without any hearing"
+    },
+    "answer": "B",
+    "explanation": "Regulatory bodies can impose disciplinary measures, including license suspension or revocation, proportionate to the misconduct."
+  },
+  {
+    "id": 93,
+    "case": null,
+    "question": "Continuing medical education (CME) requirements for practicing physicians in Cambodia primarily serve to:",
+    "options": {
+      "A": "Generate revenue for hospitals",
+      "B": "Ensure physicians maintain up-to-date knowledge and skills throughout their careers",
+      "C": "Replace the need for initial licensing",
+      "D": "Reduce the number of practicing physicians"
+    },
+    "answer": "B",
+    "explanation": "CME requirements support the ethical obligation of lifelong learning to maintain competent, current practice."
+  },
+  {
+    "id": 94,
+    "case": null,
+    "question": "A Cambodian medical graduate wishes to practice independently. Ethically and legally, they must first:",
+    "options": {
+      "A": "Begin practicing immediately after graduation",
+      "B": "Obtain proper licensure/registration and complete any required practical training as mandated by national regulations",
+      "C": "Only register if working in the capital",
+      "D": "Practice without supervision during internship"
+    },
+    "answer": "B",
+    "explanation": "Legal practice requires formal licensure and completion of mandated training, ensuring competence before independent practice."
+  },
+  {
+    "id": 95,
+    "case": null,
+    "question": "In the Cambodian healthcare context, informed consent documentation is important primarily because it:",
+    "options": {
+      "A": "Is legally irrelevant",
+      "B": "Supports both ethical practice and legal protection by demonstrating that the patient was appropriately informed",
+      "C": "Replaces the need for verbal communication with patients",
+      "D": "Is only required for foreign patients"
+    },
+    "answer": "B",
+    "explanation": "Proper documentation supports both the ethical process of informed consent and provides legal evidence that the process occurred."
+  },
+  {
+    "id": 96,
+    "case": null,
+    "question": "Which of the following best reflects the professional and ethical duty of a Cambodian physician regarding continuing scandal or corruption, such as demanding informal payments from patients for care that should be free or already covered?",
+    "options": {
+      "A": "It is acceptable if it is common practice",
+      "B": "It violates professional ethics and undermines equitable access to care, and should be avoided and reported through appropriate channels",
+      "C": "It is only a problem in private hospitals",
+      "D": "It has no ethical implications"
+    },
+    "answer": "B",
+    "explanation": "Informal or coerced payments undermine justice and equitable access to healthcare, violating core professional ethical standards."
+  },
+  {
+    "id": 97,
+    "case": null,
+    "question": "MEDPro, as a medical professionalism initiative in the Cambodian context, primarily aims to:",
+    "options": {
+      "A": "Replace national licensing requirements",
+      "B": "Strengthen medical ethics, professionalism, and quality of care among Cambodian healthcare providers and trainees",
+      "C": "Focus exclusively on hospital administration",
+      "D": "Regulate pharmaceutical pricing"
+    },
+    "answer": "B",
+    "explanation": "Initiatives like MEDPro aim to build a culture of professionalism and ethical practice among current and future Cambodian physicians."
+  },
+  {
+    "id": 98,
+    "case": null,
+    "question": "When Cambodian national guidelines and international ethical standards (e.g., WMA Declaration of Geneva) both apply to a clinical situation, the physician should generally:",
+    "options": {
+      "A": "Follow whichever is more convenient",
+      "B": "Apply national law as a legal minimum while striving to uphold internationally recognized ethical principles where they exceed local requirements",
+      "C": "Ignore international standards entirely",
+      "D": "Ignore national law in favor of international norms"
+    },
+    "answer": "B",
+    "explanation": "Physicians should meet legal requirements while also striving toward internationally recognized ethical best practices."
+  },
+  {
+    "id": 99,
+    "case": null,
+    "question": "A patient in a rural Cambodian province cannot afford a necessary treatment available at a provincial hospital. The physician's ethical obligation includes:",
+    "options": {
+      "A": "Ignoring the issue since cost is not a medical concern",
+      "B": "Exploring available social support, referral pathways, or reduced-cost options to help ensure equitable access to needed care",
+      "C": "Refusing to see the patient again",
+      "D": "Only treating patients who can pay in full upfront"
+    },
+    "answer": "B",
+    "explanation": "Physicians have an ethical role in advocating for equitable access to care, especially in resource-limited settings."
+  },
+  {
+    "id": 100,
+    "case": null,
+    "question": "A newly graduated Cambodian physician is uncertain whether a particular action is ethically or legally permissible under national regulations. The most appropriate step is to:",
+    "options": {
+      "A": "Guess and proceed without further inquiry",
+      "B": "Consult relevant national regulations, professional guidelines, senior colleagues, or the Medical Council for clarification",
+      "C": "Avoid the situation entirely by refusing all similar cases",
+      "D": "Rely solely on personal opinion"
+    },
+    "answer": "B",
+    "explanation": "When uncertain, physicians should seek guidance from authoritative sources such as regulations, guidelines, or the licensing body."
   }
 ]
