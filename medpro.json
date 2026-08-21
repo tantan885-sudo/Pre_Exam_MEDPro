@@ -154,7 +154,7 @@
   },
   {
     "id": 12,
-    "case": "A patient presents with a suspicious liver mass.",
+    "case": null,
     "question": "In the role-play about a suspicious liver mass, what should the doctor avoid doing?",
     "options": {
       "A": "Explaining uncertainty clearly",
@@ -180,8 +180,8 @@
   },
   {
     "id": 14,
-    "case": "A patient with appendicitis refuses surgery because he trusts traditional Khmer medicine.",
-    "question": "In the appendicitis role-play, the patient refuses surgery because he trusts traditional Khmer medicine. What should the student doctor do first?",
+    "case": "In the appendicitis role-play, the patient refuses surgery because he trusts traditional Khmer medicine.",
+    "question": " What should the student doctor do first?",
     "options": {
       "A": "Tell the patient that traditional medicine is wrong",
       "B": "Force the patient to accept surgery",
